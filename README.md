@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Carlos Garcia Cano Banner" width="100%">
-</p>
 
 ## 👋 Hello! I'm Carlos Garcia Cano  
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a701aa0b-966b-49f3-a5fb-f011842666d0" alt="Carlos Garcia Cano Banner" width="30%">
+</p>
+
 
 
 ## 🚀 About Me  
