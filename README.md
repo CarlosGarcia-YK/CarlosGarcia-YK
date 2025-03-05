@@ -50,6 +50,24 @@
 
 ---
 
+### 🏆 Certifications & Badges  
+
+<a href="https://www.credly.com/badges/9757cf63-1826-491b-97e5-432a23619d23/public_url">
+    <img src="https://images.credly.com/size/200x200/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="120" height="120" alt="Credly Badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/e60cfe22-12d2-4471-8b57-8f1eddf6b4af/public_url">
+    <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="120" height="120" alt="Credly Badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/94084ab1-dd8a-4759-81f2-68c7aaa69387/public_url">
+    <img src="https://images.credly.com/size/680x680/images/4c9a104d-1dbd-4283-af2f-19af0fa7863e/image.png" width="120" height="120" alt="Credly Badge"/>
+</a>
+
+
+
+
+---
 ## 📬 Connect with Me  
 <p align="center">
   <a href="mailto:carlosg0123y@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
